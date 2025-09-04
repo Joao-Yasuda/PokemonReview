@@ -1,0 +1,48 @@
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/appsettings.Development.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/appsettings.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Pokemon Review App.staticwebassets.endpoints.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Pokemon Review App
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Pokemon Review App.deps.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Pokemon Review App.runtimeconfig.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Pokemon Review App.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Pokemon Review App.pdb
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.csproj.AssemblyReference.cache
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.AssemblyInfoInputs.cache
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.AssemblyInfo.cs
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.csproj.CoreCompileInputs.cache
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.MvcApplicationPartsAssemblyInfo.cs
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.MvcApplicationPartsAssemblyInfo.cache
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/scopedcss/bundle/Pokemon Review App.styles.css
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets.build.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets.development.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets/msbuild.Pokemon Review App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets/msbuild.Pokemon Review App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets/msbuild.build.Pokemon Review App.props
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Pokemon Review App.props
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Pokemon Review App.props
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon .10CBE9F5.Up2Date
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/refint/Pokemon Review App.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.pdb
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/Pokemon Review App.genruntimeconfig.cache
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/obj/Debug/net9.0/ref/Pokemon Review App.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Scalar.AspNetCore.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Oracle.EntityFrameworkCore.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/Oracle.ManagedDataAccess.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/System.Diagnostics.PerformanceCounter.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/System.DirectoryServices.Protocols.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.PerformanceCounter.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/runtimes/linux/lib/net8.0/System.DirectoryServices.Protocols.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/runtimes/osx/lib/net8.0/System.DirectoryServices.Protocols.dll
+/Users/joaoyasuda/Desktop/Coding/Pokemon Review App/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.DirectoryServices.Protocols.dll
