@@ -4,6 +4,7 @@ using Pokemon_Review_App.Data;
 using Pokemon_Review_App.Interfaces;
 using Pokemon_Review_App.Repository;
 using PokemonReviewApp;
+using PokemonReviewApp.Helper;
 using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +13,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddTransient<Seed>();
+
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddOpenApi();
 builder.Services.AddScoped<IPokemonRepository, PokemonRepository>();
 builder.Services.AddDbContext<DataContext>(options =>

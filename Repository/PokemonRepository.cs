@@ -17,4 +17,29 @@ public class PokemonRepository : IPokemonRepository
     {
         return _context.Pokemon.ToList();
     }
+
+    public Pokemon GetPokemon(int pokemonId)
+    {
+        return _context.Pokemon.Find(pokemonId) ?? throw new InvalidOperationException();
+    }
+
+    public Pokemon CreatePokemon(Pokemon pokemon)
+    {
+        _context.Pokemon.Add(pokemon);
+        _context.SaveChanges();       
+        return pokemon;
+    }
+
+    public Pokemon UpdatePokemon(Pokemon pokemon)
+    {
+        _context.Pokemon.Update(pokemon);
+        _context.SaveChanges();       
+        return pokemon;
+    }
+
+    public void DeletePokemonById(int pokemonId)
+    {
+        _context.Pokemon.Remove(GetPokemon(pokemonId));
+        _context.SaveChanges();
+    }
 }
